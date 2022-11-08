@@ -24,11 +24,11 @@ cd /var/www/html/
 echo '<!DOCTYPE html>' > index.html
 echo '<html>' >> index.html
 echo '<head>' >> index.html
-echo '<title>Level It Up</title>' >> index.html
+echo '<title>Mariia Penkivska</title>' >> index.html
 echo '<meta charset="UTF-8">' >> index.html
 echo '</head>' >> index.html
 echo '<body>' >> index.html
-echo '<h1>Welcome to Level Up in Tech</h1>' >> index.html
-echo '<h3>Red Team</h3>' >> index.html
+echo '<h1>Apache server</h1>' >> index.html
+echo '<h3>Hello there</h3>' >> index.html
 echo '</body>' >> index.html
 echo '</html>' >> index.html
